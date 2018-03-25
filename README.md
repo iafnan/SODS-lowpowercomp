@@ -17,7 +17,7 @@ LabInf @ Politecnico di Torino
 University course project for Synthesis and Optimization of digital systems
 
 ## When?
-Fall 2017
+Winter 2017
 
 ## Status?
 Closed
