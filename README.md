@@ -1,4 +1,4 @@
-# comb-circuits-lowpower-synthesis
+# SODS - low power competition
 Greedy strategy algorithm for optimizing post synthesis dual Vth cells assignment on combinational circuits using Synopsys PrimeTime shell.
 
 ## Prerequisites
